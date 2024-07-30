@@ -1,6 +1,9 @@
-👋 Hi, I’m @Agnieszka26
-I am a dedicated and experienced mid-level developer specializing in front-end development. With a strong foundation in modern web technologies, I bring innovative solutions to complex problems and deliver high-quality user experiences.
-📫 You can reach me by sending me email - agna.medrek@gmail.com
+👋 # Hello, I’m **@Agnieszka26** 👋 <br />
+⚛️ I'm a passionate Frontend Developer specializing in **React** and **Next.js**. I enjoy crafting intuitive and dynamic web applications. ⚛️ <br />
+🤖 I embrace automationusing **UiPath** to streamline processes and boost productivity. 🤖 <br />
+🚀 Currently, I'm diving into backend technologies like **Nuxt** and **GraphQL**. 🚀 <br />
+🌟I'm always eager to learn and explore new tools and technologies to build better solutions. Let's connect and create something amazing! 🌟<br />
+📫 You can reach me by sending me email - agna.medrek@gmail.com 📫 
 
 <!---
 Agnieszka26/Agnieszka26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
