@@ -53,7 +53,7 @@ Currently working with modern frontend technologies and focusing on clean archit
 https://www.linkedin.com/in/agnieszka-medrek/
 
 🌐 Portfolio:
-https://portfolio-agnieszka26.vercel.app/
+[https://www.agna.website/](https://www.agna.website/)
 
 📧 Email:
 [agna.medrek@gmail.com](mailto:agna.medrek@gmail.com)
